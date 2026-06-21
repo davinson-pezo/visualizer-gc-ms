@@ -45,9 +45,12 @@ Agilent DATA.MS raw scan (m/z 50 - 400)
 
 ## 🚀 Open the Visualizer
 
-Open the visualizer directly in your browser without setting up any server:
+You can access the live visualizer online or run it locally:
 
-### Opening it locally (No Server Required):
+### 🌐 Live Deployment
+👉 **[Open Live Visualizer Website](https://davinson-pezo.github.io/visualizer-gc-ms/)**
+
+### 💻 Opening it locally (No Server Required):
 1. Navigate to the `visualizer/` folder.
 2. **Double-click `index.html`** or drag it into Chrome, Safari, Firefox, or Edge.
 3. The visualizer will load the processed data from `data/*.js` and Plotly from `vendor/`.
