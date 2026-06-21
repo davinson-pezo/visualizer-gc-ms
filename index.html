@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GC-MS Qualitative Evidence Reviewer</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="vendor/plotly-2.24.1.min.js"></script>
+</head>
+<body>
+
+  <header>
+    <div class="brand-section">
+      <div class="logo-icon">G</div>
+      <div class="title-section">
+        <h1>GC-MS Evidence Reviewer</h1>
+        <p>Qualitative review of peaks, EI mass spectra, and comparisons against NIST 17</p>
+      </div>
+    </div>
+    
+    <div class="controls-section">
+      <div class="sample-selector-wrapper">
+        <label for="sampleSelect" class="select-label">Sample:</label>
+        <select id="sampleSelect" class="dropdown-select">
+          <option value="250804_BK_empty">Blank (250804_BK_empty)</option>
+          <option value="250812_barley_powder" selected>Barley Powder (250812_barley_powder)</option>
+          <option value="250813_CMC_BK">CMC Blank (250813_CMC_BK)</option>
+          <option value="250814_CMC_BW">CMC BW (250814_CMC_BW)</option>
+          <option value="250815_CMC_BE">CMC BE (250815_CMC_BE)</option>
+          <option value="250816_CMC_BWE">CMC BWE (250816_CMC_BWE)</option>
+          <option value="250817_extract_EW_100uL">Extract EW 100uL (250817_extract_EW_100uL)</option>
+          <option value="250817_extract_E_100uL">Extract E 100uL (250817_extract_E_100uL)</option>
+          <option value="250817_extract_W_100uL">Extract W 100uL (250817_extract_W_100uL)</option>
+        </select>
+      </div>
+      
+      <div id="ionizationBadge" class="polarity-badge">EI (70 eV)</div>
+    </div>
+  </header>
+
+  <main class="dashboard-container">
+    <section class="method-strip" aria-label="Analytical method summary">
+      <div class="method-chip">
+        <span class="method-chip-label">Chromatography</span>
+        <strong>Capillary GC (Polar Column)</strong>
+      </div>
+      <div class="method-chip">
+        <span class="method-chip-label">Detector</span>
+        <strong>Agilent MSD (EI, 70 eV)</strong>
+      </div>
+      <div class="method-chip">
+        <span class="method-chip-label">Database</span>
+        <strong>NIST 17 Library (nist17.db)</strong>
+      </div>
+      <div class="method-chip">
+        <span class="method-chip-label">Mass Range</span>
+        <strong>50 - 400 m/z</strong>
+      </div>
+    </section>
+
+    <!-- Left column: Chromatogram and Spectra plots -->
+    <div class="left-panel">
+      
+      <!-- Chromatogram plot card -->
+      <div class="glass-card chromatogram-card">
+        <div class="card-header">
+          <div class="card-title-group">
+            <h2 class="card-title">Total Ion Chromatogram (TIC) <span class="indicator" id="chromatogramIndicator">Loading...</span></h2>
+            <p class="card-subtitle">Click on the red peak markers to inspect the spectrum and library matches.</p>
+          </div>
+          <button class="chrom-reset-btn" id="btnResetChromZoom">Reset Zoom</button>
+        </div>
+        <div class="selection-strip" id="chromSelectionSummary">
+          No peak selected. Yellow diamonds indicate active peaks in the table.
+        </div>
+        <div id="chromatogramPlot" class="plot-container"></div>
+        
+        <!-- Local EIC profile pane -->
+        <div class="eic-review-panel" id="eicPanel" style="display: none;">
+          <div class="pane-title">
+            <span>Extracted Ion Chromatogram (EIC) for base m/z</span>
+            <span class="badge eic">Local EIC</span>
+          </div>
+          <div id="eicPlot" class="eic-plot"></div>
+        </div>
+      </div>
+      
+      <!-- Spectra plots card -->
+      <div class="glass-card spectra-card">
+        <div class="card-header">
+          <h2 class="card-title">Mass Spectrum of Selected Substance</h2>
+        </div>
+        
+        <div class="spectra-grid">
+          <!-- MS Experimental spectrum pane -->
+          <div class="spectrum-pane">
+            <div class="pane-title">
+              <span>Experimental Spectrum (Local background subtracted)</span>
+              <span class="badge ms1">Experimental EI</span>
+            </div>
+            <div id="expSpectraPlot" class="spectrum-plot">
+              <div class="no-spectra-msg" id="expPlaceholder">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                <span>Select a peak to view its experimental fragmentation spectrum</span>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Mirror/Comparison spectrum pane -->
+          <div class="spectrum-pane">
+            <div class="pane-title">
+              <span>Spectral Comparison (Head-to-Tail: Exper. top / Library bottom)</span>
+              <span class="badge ms2">Mirror Plot (NIST 17)</span>
+            </div>
+            <div id="mirrorSpectraPlot" class="spectrum-plot">
+              <div class="no-spectra-msg" id="mirrorPlaceholder">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+                <span>Select a peak to compare it with the best NIST library hit</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+    <!-- Right column: Peak Table and Detailed Peak Information -->
+    <div class="right-panel">
+      
+      <!-- Peak list table card -->
+      <div class="glass-card peak-list-card">
+        <div class="card-header">
+          <h2 class="card-title">Detected Peaks <span class="indicator" id="peakCountIndicator">(0)</span></h2>
+        </div>
+        
+        <div class="filter-bar">
+          <div class="search-input-wrapper">
+            <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="searchInput" class="search-input" placeholder="Search by compound, m/z, RT...">
+          </div>
+          
+          <div class="filter-tabs">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="lib">Identified (NIST)</button>
+            <button class="filter-btn" data-filter="unmatched">Unmatched</button>
+          </div>
+        </div>
+        
+        <div class="table-container">
+          <table class="peak-table" id="peakTable">
+            <thead>
+              <tr>
+                <th style="width: 70px;">ID</th>
+                <th style="width: 80px; text-align: right;">RT (min)</th>
+                <th style="width: 90px; text-align: right;">Base m/z</th>
+                <th>Candidate / Identification (NIST)</th>
+              </tr>
+            </thead>
+            <tbody id="peakTableBody">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+      
+      <!-- Selected peak detail card -->
+      <div class="glass-card peak-details-card" id="peakDetailsContainer">
+        <!-- Default State: Empty -->
+        <div class="empty-details" id="emptyDetailsState">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+          <p>Select a peak to inspect its chemical and spectroscopic details</p>
+        </div>
+        
+        <!-- Active State: Compound details -->
+        <div id="activeDetailsState" style="display: none;">
+          <div class="compound-header">
+            <div class="compound-title-group">
+              <div class="compound-name" id="detName">Compound Name</div>
+              <div class="compound-formula" id="detFormula">Chemical Formula</div>
+            </div>
+            <span class="compound-type-badge" id="detTypeBadge">Identified</span>
+          </div>
+          
+          <div class="details-grid">
+            <div class="detail-item">
+              <div class="detail-label">Peak ID</div>
+              <div class="detail-value highlight" id="detPeakId">Peak 00</div>
+            </div>
+            
+            <div class="detail-item">
+              <div class="detail-label">Retention Time (RT)</div>
+              <div class="detail-value" id="detRtCorrected">0.00 min</div>
+            </div>
+            
+            <div class="detail-item">
+              <div class="detail-label">Base Ion (m/z)</div>
+              <div class="detail-value" id="detMz">0.0</div>
+            </div>
+            
+            <div class="detail-item">
+              <div class="detail-label">Apex Intensity (TIC)</div>
+              <div class="detail-value" id="detAbundance">0</div>
+            </div>
+            
+            <div class="detail-item">
+              <div class="detail-label">CAS Number (NIST)</div>
+              <div class="detail-value" id="detCas">--</div>
+            </div>
+            
+            <div class="detail-item">
+              <div class="detail-label">Molecular Weight (MW)</div>
+              <div class="detail-value" id="detMw">--</div>
+            </div>
+
+            <div class="detail-item">
+              <div class="detail-label">Retention Index (RI)</div>
+              <div class="detail-value" id="detRi">--</div>
+            </div>
+
+            <div class="detail-item" id="libraryMatchStats">
+              <div class="detail-label">Match Factor (NIST MF)</div>
+              <div class="detail-value highlight-green" id="detLibScore">0.0</div>
+            </div>
+          </div>
+          
+          <!-- Actions & Search Engines Group -->
+          <div class="search-engines-group">
+            <div class="detail-label">External Scientific Lookups</div>
+            <div class="btn-grid">
+              <a href="#" target="_blank" rel="noopener noreferrer" class="action-btn" id="linkPubChem">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                PubChem
+              </a>
+              <a href="#" target="_blank" rel="noopener noreferrer" class="action-btn" id="linkNIST">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                NIST WebBook
+              </a>
+              <a href="#" target="_blank" rel="noopener noreferrer" class="action-btn" id="linkChemSpider">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                ChemSpider
+              </a>
+              <button class="action-btn primary" id="btnExportMsp">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                Export Spectrum (.MSP)
+              </button>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
+    </div>
+    
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
