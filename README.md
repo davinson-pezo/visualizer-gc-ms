@@ -1,5 +1,6 @@
 # 🔬 GC-MS Qualitative Evidence Reviewer
 
+[![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-2ea44f.svg)](https://davinson-pezo.github.io/visualizer-gc-ms/)
 [![Library](https://img.shields.io/badge/library-NIST%2017-blueviolet.svg)](#-spectral-library--compilation)
 [![Plotting](https://img.shields.io/badge/plotting-Plotly.js-3f4f75.svg)](https://plotly.com/javascript/)
 [![Stack](https://img.shields.io/badge/stack-HTML5%20%2B%20JS-F7DF1E.svg)](#-technical-notes)
