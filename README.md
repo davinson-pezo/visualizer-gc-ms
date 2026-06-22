@@ -27,9 +27,13 @@ The visualizer's sample data is matched and annotated using the project's refere
 ```
 Agilent DATA.MS raw scan (m/z 50 - 400)
   |
-  +--> Python Pipeline (100,000 threshold peak picking)
+  +--> Python Pipeline:
   |      |
-  │      +--> Local background subtraction (+/- 20 scan window)
+  |      +--> PDF-guided alignment (exact RT extraction & CAS normalization)
+  |      |     OR
+  |      +--> Automated peak picking (10,000 threshold for Blank and Alkanes)
+  |      |
+  |      +--> Local background subtraction (+/- 20 scan window)
   |
   +--> Cosine Similarity Search (NIST dot-product formula)
   |      |
@@ -61,12 +65,13 @@ You can access the live visualizer online or run it locally:
 
 ## 🧪 Included Samples
 
-The visualizer contains processed data from nine samples:
+The visualizer contains processed data from ten sequences:
 
-* **Blank** (`250804_BK_empty`): Control run of the empty capillary column.
-* **Barley Powder** (`250812_barley_powder`): Barley biomass profiling (34 peaks detected, including key volatile markers like $\beta$-ionone and loliolide).
-* **CMC Controls** (`250813_CMC_BK`, `250814_CMC_BW`, `250815_CMC_BE`, `250816_CMC_BWE`): Carboxymethyl cellulose blanks and system controls.
-* **Polar Extracts** (`250817_extract_EW_100uL`, `250817_extract_E_100uL`, `250817_extract_W_100uL`): Ethanol-water, ethanol, and water solvent extraction profiles.
+* **Blank** (`250804_BK_empty`): Control run of the empty capillary column (68 peaks detected with $1.0 \times 10^4$ threshold).
+* **Alkanes Standard** (`20260518_Alkanes_C8_C24_3`): Calibration standard containing C8-C24 alkanes for Retention Index calculation (210 peaks detected with $1.0 \times 10^4$ threshold).
+* **Barley Powder** (`250812_barley_powder`): Barley biomass profiling (174 peaks aligned with PDF, including key volatile markers like $\beta$-ionone and loliolide).
+* **CMC Controls** (`250813_CMC_BK`, `250814_CMC_BW`, `250815_CMC_BE`, `250816_CMC_BWE`): Carboxymethyl cellulose blanks and system controls (aligned with PDF).
+* **Polar Extracts** (`250817_extract_EW_100uL`, `250817_extract_E_100uL`, `250817_extract_W_100uL`): Ethanol-water, ethanol, and water solvent extraction profiles (aligned with PDF).
 
 ### Experimental Conditions:
 * **Chromatography**: Capillary GC method utilizing a polar stationary phase column.

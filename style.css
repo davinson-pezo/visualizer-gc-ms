@@ -431,8 +431,7 @@ label.select-label {
 
 /* Peak Table */
 .peak-list-card {
-  flex: 1;
-  min-height: 350px;
+  height: 450px;
   display: flex;
   flex-direction: column;
 }
