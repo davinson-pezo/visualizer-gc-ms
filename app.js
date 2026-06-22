@@ -1,5 +1,18 @@
 // visualizer/app.js
 
+const SAMPLE_DESCRIPTIONS = {
+  "250804_BK_empty": "Blanco de Sistema - Vial Vacío",
+  "250812_barley_powder": "Hierba de Cebada en Polvo",
+  "250813_CMC_BK": "Blanco de Polímero - CMC Puro",
+  "250814_CMC_BW": "CMC con Extracto Acuoso de Cebada",
+  "250815_CMC_BE": "CMC con Extracto Etanólico de Cebada",
+  "250816_CMC_BWE": "CMC con Extracto Etanol-Agua (1:1 v:v) de Cebada",
+  "250817_extract_EW_100uL": "Extracto Agua-Etanol (1:1 v:v) de Cebada (100 µL)",
+  "250817_extract_E_100uL": "Extracto Etanólico de Cebada (100 µL)",
+  "250817_extract_W_100uL": "Extracto Acuoso de Cebada (100 µL)",
+  "20260518_Alkanes_C8_C24_3": "Estándar de Calibración de Alcanos (C12-C24)"
+};
+
 // State management
 let state = {
   sampleData: null,       // Active sample data
@@ -664,7 +677,8 @@ function exportSelectedPeakMSP() {
   if (formula) msp += `Formula: ${formula}\n`;
   if (mw) msp += `MW: ${mw}\n`;
   if (cas) msp += `CAS#: ${cas}\n`;
-  msp += `Comment: Sample: ${state.sampleData.sample_name} | RT: ${peak.rt_corrected.toFixed(3)} min | Base Ion m/z: ${peak.mz.toFixed(1)}\n`;
+  const desc = SAMPLE_DESCRIPTIONS[state.sampleData.sample_name] || "";
+  msp += `Comment: Sample: ${state.sampleData.sample_name} (${desc}) | RT: ${peak.rt_corrected.toFixed(3)} min | Base Ion m/z: ${peak.mz.toFixed(1)}\n`;
   msp += `Num Peaks: ${peak.experimental_spectrum.length}\n`;
   
   peak.experimental_spectrum.forEach(p => {
