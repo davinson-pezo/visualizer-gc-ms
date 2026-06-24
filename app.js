@@ -220,7 +220,7 @@ function showPeakDetails(peak) {
     detCas.textContent = match.cas_number || "--";
     detMw.textContent = match.mw !== null ? `${match.mw.toFixed(1)} Da` : "--";
     detRi.textContent = match.retention_index !== null ? match.retention_index.toFixed(0) : "--";
-    detLibScore.textContent = `${match.score.toFixed(1)} / 1000`;
+    detLibScore.textContent = `${match.score.toFixed(1)} / 100`;
     
     detTypeBadge.textContent = "Identified (NIST 17)";
     detTypeBadge.className = "compound-type-badge lib";

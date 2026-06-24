@@ -43,7 +43,7 @@ Agilent DATA.MS raw scan (m/z 50 - 400)
 ### Search Constraints:
 * **Tolerances:** Mass tolerance is set to $\pm 0.5$ Da for fragment alignment.
 * **Pre-filtering:** Uses the top 6 peaks of the query spectrum against library base peaks, with a safety rule allowing matching for database entries whose base peak falls below the scanned range ($< 50.0$ m/z).
-* **Scoring:** Normalized cosine dot-product on a scale of 0 to 1000.
+* **Scoring:** Normalized cosine dot-product on a scale of 0 to 100.
 
 ---
 
@@ -86,9 +86,9 @@ The similarity score (Match Factor, $MF$) represents the quality of the spectral
 
 | Score | Match Quality | Interpretation |
 | :---: | :--- | :--- |
-| **> 900** | Excellent | Highly confident compound identification |
-| **800 - 900** | Good | Very likely compound identification |
-| **700 - 800** | Moderate | Likely compound identification |
-| **< 700** | Low | Similar structural isomers or high spectral noise |
+| **> 90** | Excellent | Highly confident compound identification |
+| **80 - 90** | Good | Very likely compound identification |
+| **70 - 80** | Moderate | Likely compound identification |
+| **< 70** | Low | Similar structural isomers or high spectral noise |
 
 The visualizer shows the best library match (name, formula, CAS, MW, RI, and score) inside the active card, with quick link buttons for **PubChem**, **NIST WebBook**, and **ChemSpider** databases.

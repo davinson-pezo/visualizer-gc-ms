@@ -11166,9 +11166,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclobutane, methylene-",
         "formula": "C5H8",
-        "mw": 2.527,
+        "mw": 68.12,
         "cas_number": "1120-56-5",
-        "score": 70.0,
+        "score": 7.0,
         "retention_index": 537,
         "reference_spectrum": [
           {
@@ -11448,9 +11448,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclotrisiloxane, hexamethyl-",
         "formula": "C6H18O3Si3",
-        "mw": 25.448,
+        "mw": 222.46,
         "cas_number": "541-05-9",
-        "score": 830.0,
+        "score": 83.0,
         "retention_index": 851,
         "reference_spectrum": [
           {
@@ -11894,9 +11894,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Tris(tert-butyldimethylsilyloxy)arsane",
         "formula": "C18H45AsO3Si3",
-        "mw": 9.437,
+        "mw": 468.73,
         "cas_number": "1000366-57-5",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -12528,9 +12528,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Methyl-7-phenylindole",
         "formula": "C15H13N",
-        "mw": 10.497,
+        "mw": 207.28,
         "cas_number": "1140-08-5",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -12930,9 +12930,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclotrisiloxane, hexamethyl-",
         "formula": "C6H18O3Si3",
-        "mw": 25.448,
+        "mw": 222.46,
         "cas_number": "541-05-9",
-        "score": 590.0,
+        "score": 59.0,
         "retention_index": 851,
         "reference_spectrum": [
           {
@@ -13392,9 +13392,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "S-[2-[N,N-Dimethylamino]ethylpyrollidine-N-carbonylthiocarbohydroximate",
         "formula": "C10H19N3O2S",
-        "mw": 48.512,
+        "mw": 245.34,
         "cas_number": "1000212-14-2",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -13922,9 +13922,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclotrisiloxane, hexamethyl-",
         "formula": "C6H18O3Si3",
-        "mw": 25.448,
+        "mw": 222.46,
         "cas_number": "541-05-9",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": 851,
         "reference_spectrum": [
           {
@@ -14364,9 +14364,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclotrisiloxane, hexamethyl-",
         "formula": "C6H18O3Si3",
-        "mw": 25.448,
+        "mw": 222.46,
         "cas_number": "541-05-9",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": 851,
         "reference_spectrum": [
           {
@@ -14826,9 +14826,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclotrisiloxane, hexamethyl-",
         "formula": "C6H18O3Si3",
-        "mw": 25.448,
+        "mw": 222.46,
         "cas_number": "541-05-9",
-        "score": 420.0,
+        "score": 42.0,
         "retention_index": 851,
         "reference_spectrum": [
           {
@@ -15296,9 +15296,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "N-(2-Acetylcyclopentylidene)cyclohexylamine",
         "formula": "C13H21NO",
-        "mw": 10.554,
+        "mw": 207.32,
         "cas_number": "1000100-48-5",
-        "score": 270.0,
+        "score": 27.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -15666,9 +15666,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Hexadecane, 2,6,10,14-tetramethyl-",
         "formula": "C20H42",
-        "mw": 20.185,
+        "mw": 282.56,
         "cas_number": "638-36-8",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": 1792,
         "reference_spectrum": [
           {
@@ -16188,9 +16188,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Silicic acid, diethyl bis(trimethylsilyl) ester",
         "formula": "C10H28O4Si3",
-        "mw": 33.986,
+        "mw": 296.58,
         "cas_number": "3555-45-1",
-        "score": 370.0,
+        "score": 37.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -16558,9 +16558,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "o-(p-Tolyl) 1-azetidinecarbothioate",
         "formula": "C11H13NOS",
-        "mw": 10.464,
+        "mw": 207.29,
         "cas_number": "10560-24-4",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -17232,9 +17232,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Octane, 3,4,5,6-tetramethyl-",
         "formula": "C12H26",
-        "mw": 39.131,
+        "mw": 170.34,
         "cas_number": "62185-21-1",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -17706,9 +17706,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Hydroxyphenyl pyrrolidinyl thione",
         "formula": "C11H13NOS",
-        "mw": 10.464,
+        "mw": 207.29,
         "cas_number": "84783-02-8",
-        "score": 320.0,
+        "score": 32.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -17992,9 +17992,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Arsenous acid, tris(trimethylsilyl) ester",
         "formula": "C9H27AsO3Si3",
-        "mw": 14.368,
+        "mw": 342.49,
         "cas_number": "55429-29-3",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -18614,9 +18614,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3-Ethyl-3-methylnonadecane",
         "formula": "C22H46",
-        "mw": 48.216,
+        "mw": 310.61,
         "cas_number": "1000360-42-6",
-        "score": 270.0,
+        "score": 27.0,
         "retention_index": 2158,
         "reference_spectrum": [
           {
@@ -19192,9 +19192,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Octane, 1,1'-oxybis-",
         "formula": "C16H34O",
-        "mw": 45.653,
+        "mw": 242.45,
         "cas_number": "629-82-3",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -19674,9 +19674,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Isopropyl-1,3-cyclohexanedione",
         "formula": "C9H14O2",
-        "mw": 23.027,
+        "mw": 154.21,
         "cas_number": "62831-62-3",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -20136,9 +20136,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "5-Dodecene, (Z)-",
         "formula": "C12H24",
-        "mw": 37.116,
+        "mw": 168.32,
         "cas_number": "7206-28-2",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": 1176,
         "reference_spectrum": [
           {
@@ -20622,9 +20622,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "5-Undecene",
         "formula": "C11H22",
-        "mw": 23.1,
+        "mw": 154.3,
         "cas_number": "4941-53-1",
-        "score": 940.0,
+        "score": 94.0,
         "retention_index": 1092,
         "reference_spectrum": [
           {
@@ -20952,9 +20952,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Pentadecafluorooctanoic acid, decyl ester",
         "formula": "C18H21F15O2",
-        "mw": 29.842,
+        "mw": 554.33,
         "cas_number": "1000406-04-0",
-        "score": 720.0,
+        "score": 72.0,
         "retention_index": 1468,
         "reference_spectrum": [
           {
@@ -21394,9 +21394,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-Decanol, 2-methyl-",
         "formula": "C11H24O",
-        "mw": 41.111,
+        "mw": 172.31,
         "cas_number": "18675-24-6",
-        "score": 800.0,
+        "score": 80.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -21952,9 +21952,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Hexenal, (E)-",
         "formula": "C6H10O",
-        "mw": 32.537,
+        "mw": 98.14,
         "cas_number": "6728-26-3",
-        "score": 760.0,
+        "score": 76.0,
         "retention_index": 854,
         "reference_spectrum": [
           {
@@ -22426,9 +22426,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Carbonic acid, decyl undecyl ester",
         "formula": "C22H44O3",
-        "mw": 28.649,
+        "mw": 356.59,
         "cas_number": "1000383-16-0",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": 2428,
         "reference_spectrum": [
           {
@@ -22940,9 +22940,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Tetracosane",
         "formula": "C24H50",
-        "mw": 10.711,
+        "mw": 338.66,
         "cas_number": "646-31-1",
-        "score": 860.0,
+        "score": 86.0,
         "retention_index": 2400,
         "reference_spectrum": [
           {
@@ -23518,9 +23518,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Methoxyacetic acid, 2-tridecyl ester",
         "formula": "C16H32O3",
-        "mw": 10.091,
+        "mw": 272.43,
         "cas_number": "1000282-04-5",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -24076,9 +24076,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Heptadecane",
         "formula": "C17H36",
-        "mw": 43.674,
+        "mw": 240.47,
         "cas_number": "629-78-7",
-        "score": 590.0,
+        "score": 59.0,
         "retention_index": 1700,
         "reference_spectrum": [
           {
@@ -24558,9 +24558,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Octanone",
         "formula": "C8H16O",
-        "mw": 62.584,
+        "mw": 128.22,
         "cas_number": "589-63-9",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": 976,
         "reference_spectrum": [
           {
@@ -24896,9 +24896,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Methylpentyl formate",
         "formula": "C7H14O2",
-        "mw": 64.563,
+        "mw": 130.19,
         "cas_number": "381670-34-4",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": 898,
         "reference_spectrum": [
           {
@@ -25278,9 +25278,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Carbonic acid, di(decyl) ester",
         "formula": "C21H42O3",
-        "mw": 14.633,
+        "mw": 342.56,
         "cas_number": "1000383-15-9",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": 2328,
         "reference_spectrum": [
           {
@@ -25796,9 +25796,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Tetracosane",
         "formula": "C24H50",
-        "mw": 10.711,
+        "mw": 338.66,
         "cas_number": "646-31-1",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": 2400,
         "reference_spectrum": [
           {
@@ -26402,9 +26402,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "cis-3-Hexenyl isovalerate",
         "formula": "C11H20O2",
-        "mw": 53.074,
+        "mw": 184.28,
         "cas_number": "35154-45-1",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": 1238,
         "reference_spectrum": [
           {
@@ -26888,9 +26888,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Penten-1-ol, (Z)-",
         "formula": "C5H10O",
-        "mw": 20.537,
+        "mw": 86.13,
         "cas_number": "1576-95-0",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": 767,
         "reference_spectrum": [
           {
@@ -27342,9 +27342,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Isopropyl-1,3-cyclohexanedione",
         "formula": "C9H14O2",
-        "mw": 23.027,
+        "mw": 154.21,
         "cas_number": "62831-62-3",
-        "score": 780.0,
+        "score": 78.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -27908,9 +27908,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Isopropyl-1,3-cyclohexanedione",
         "formula": "C9H14O2",
-        "mw": 23.027,
+        "mw": 154.21,
         "cas_number": "62831-62-3",
-        "score": 700.0,
+        "score": 70.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -28378,9 +28378,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-Octene, 2,6-dimethyl-",
         "formula": "C10H20",
-        "mw": 9.085,
+        "mw": 140.27,
         "cas_number": "6874-29-9",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -28768,9 +28768,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Oxirane, octyl-",
         "formula": "C10H20O",
-        "mw": 25.079,
+        "mw": 156.27,
         "cas_number": "2404-44-6",
-        "score": 590.0,
+        "score": 59.0,
         "retention_index": 1230,
         "reference_spectrum": [
           {
@@ -29270,9 +29270,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Eicosane, 9-cyclohexyl-",
         "formula": "C26H52",
-        "mw": 36.727,
+        "mw": 364.7,
         "cas_number": "4443-61-2",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -30336,9 +30336,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3-Hexen-1-ol, (E)-",
         "formula": "C6H12O",
-        "mw": 34.553,
+        "mw": 100.16,
         "cas_number": "928-97-2",
-        "score": 950.0,
+        "score": 95.0,
         "retention_index": 852,
         "reference_spectrum": [
           {
@@ -30838,9 +30838,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3-Hexen-1-ol, (Z)-",
         "formula": "C6H12O",
-        "mw": 34.553,
+        "mw": 100.16,
         "cas_number": "928-96-1",
-        "score": 450.0,
+        "score": 45.0,
         "retention_index": 857,
         "reference_spectrum": [
           {
@@ -31228,9 +31228,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclohexanol",
         "formula": "C6H12O",
-        "mw": 34.553,
+        "mw": 100.16,
         "cas_number": "108-93-0",
-        "score": 830.0,
+        "score": 83.0,
         "retention_index": 880,
         "reference_spectrum": [
           {
@@ -31730,9 +31730,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Pentacosane",
         "formula": "C25H52",
-        "mw": 24.727,
+        "mw": 352.69,
         "cas_number": "629-99-2",
-        "score": 450.0,
+        "score": 45.0,
         "retention_index": 2500,
         "reference_spectrum": [
           {
@@ -32604,9 +32604,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Octadecane, 3-ethyl-5-(2-ethylbutyl)-",
         "formula": "C26H54",
-        "mw": 38.743,
+        "mw": 366.72,
         "cas_number": "55282-12-7",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -34130,9 +34130,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Tetracosane",
         "formula": "C24H50",
-        "mw": 10.711,
+        "mw": 338.66,
         "cas_number": "646-31-1",
-        "score": 580.0,
+        "score": 58.0,
         "retention_index": 2400,
         "reference_spectrum": [
           {
@@ -34696,9 +34696,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Hydrazine, 1,1-dimethyl-",
         "formula": "C2H8N2",
-        "mw": 60.069,
+        "mw": 60.1,
         "cas_number": "57-14-7",
-        "score": 50.0,
+        "score": 5.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -35162,9 +35162,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benserazide",
         "formula": "C10H15N3O5",
-        "mw": 60.493,
+        "mw": 257.25,
         "cas_number": "322-35-0",
-        "score": 160.0,
+        "score": 16.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -35412,9 +35412,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3,5-Dimethylpyrazole",
         "formula": "C5H8N2",
-        "mw": 30.533,
+        "mw": 96.13,
         "cas_number": "67-51-6",
-        "score": 720.0,
+        "score": 72.0,
         "retention_index": 1024,
         "reference_spectrum": [
           {
@@ -35970,9 +35970,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Copaene",
         "formula": "C15H24",
-        "mw": 7.58,
+        "mw": 204.36,
         "cas_number": "3856-25-5",
-        "score": 990.0,
+        "score": 99.0,
         "retention_index": 1376,
         "reference_spectrum": [
           {
@@ -36608,9 +36608,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Ethylcyclohexene",
         "formula": "C8H14",
-        "mw": 44.574,
+        "mw": 110.2,
         "cas_number": "3742-42-5",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": 850,
         "reference_spectrum": [
           {
@@ -37070,9 +37070,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Octacosane",
         "formula": "C28H58",
-        "mw": 1.238,
+        "mw": 394.77,
         "cas_number": "630-02-4",
-        "score": 860.0,
+        "score": 86.0,
         "retention_index": 2800,
         "reference_spectrum": [
           {
@@ -37856,9 +37856,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Cyclohexen-1-one, 4-ethyl-3,4-dimethyl-",
         "formula": "C10H16O",
-        "mw": 21.048,
+        "mw": 152.24,
         "cas_number": "17622-46-7",
-        "score": 620.0,
+        "score": 62.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -38278,9 +38278,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3,5-Octadien-2-one",
         "formula": "C8H12O",
-        "mw": 58.553,
+        "mw": 124.18,
         "cas_number": "38284-27-4",
-        "score": 910.0,
+        "score": 91.0,
         "retention_index": 1091,
         "reference_spectrum": [
           {
@@ -38720,9 +38720,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzaldehyde",
         "formula": "C7H6O",
-        "mw": 40.506,
+        "mw": 106.12,
         "cas_number": "100-52-7",
-        "score": 930.0,
+        "score": 93.0,
         "retention_index": 962,
         "reference_spectrum": [
           {
@@ -39198,9 +39198,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzaldehyde",
         "formula": "C7H6O",
-        "mw": 40.506,
+        "mw": 106.12,
         "cas_number": "100-52-7",
-        "score": 700.0,
+        "score": 70.0,
         "retention_index": 962,
         "reference_spectrum": [
           {
@@ -39556,9 +39556,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Propanoic acid",
         "formula": "C3H6O2",
-        "mw": 8.501,
+        "mw": 74.08,
         "cas_number": "79-09-4",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": 700,
         "reference_spectrum": [
           {
@@ -40026,9 +40026,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Octasiloxane, 1,1,3,3,5,5,7,7,9,9,11,11,13,13,15,15-hexadecamethyl-",
         "formula": "C16H50O7Si8",
-        "mw": 53.883,
+        "mw": 579.25,
         "cas_number": "19095-24-0",
-        "score": 370.0,
+        "score": 37.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -41236,9 +41236,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Pentafluoropropionic acid, nonyl ester",
         "formula": "C12H19F5O2",
-        "mw": 27.987,
+        "mw": 290.27,
         "cas_number": "959100-35-7",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": 1171,
         "reference_spectrum": [
           {
@@ -41894,9 +41894,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "(1S,5S)-4-Methylene-1-((R)-6-methylhept-5-en-2-yl)bicyclo[3.1.0]hexane",
         "formula": "C15H24",
-        "mw": 7.58,
+        "mw": 204.36,
         "cas_number": "58319-04-3",
-        "score": 520.0,
+        "score": 52.0,
         "retention_index": 1464,
         "reference_spectrum": [
           {
@@ -42484,9 +42484,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1,3-Benzenediol, 2-methyl-",
         "formula": "C7H8O2",
-        "mw": 58.516,
+        "mw": 124.14,
         "cas_number": "608-25-3",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -43046,9 +43046,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3,5-Octadien-2-one",
         "formula": "C8H12O",
-        "mw": 58.553,
+        "mw": 124.18,
         "cas_number": "38284-27-4",
-        "score": 870.0,
+        "score": 87.0,
         "retention_index": 1091,
         "reference_spectrum": [
           {
@@ -43424,9 +43424,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "(1R,2S,6S,7S,8S)-8-Isopropyl-1-methyl-3-methylenetricyclo[4.4.0.02,7]decane-rel-",
         "formula": "C15H24",
-        "mw": 7.58,
+        "mw": 204.36,
         "cas_number": "18252-44-3",
-        "score": 700.0,
+        "score": 70.0,
         "retention_index": 1432,
         "reference_spectrum": [
           {
@@ -44234,9 +44234,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Caryophyllene",
         "formula": "C15H24",
-        "mw": 7.58,
+        "mw": 204.36,
         "cas_number": "87-44-5",
-        "score": 990.0,
+        "score": 99.0,
         "retention_index": 1419,
         "reference_spectrum": [
           {
@@ -45040,9 +45040,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2,6-Heptanedione, 3-acetyl-",
         "formula": "C9H14O3",
-        "mw": 39.022,
+        "mw": 170.21,
         "cas_number": "29214-57-1",
-        "score": 590.0,
+        "score": 59.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -45634,9 +45634,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Undecanal",
         "formula": "C11H22O",
-        "mw": 39.095,
+        "mw": 170.3,
         "cas_number": "112-44-7",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": 1307,
         "reference_spectrum": [
           {
@@ -46108,9 +46108,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Tetradecane, 2,6,10-trimethyl-",
         "formula": "C17H36",
-        "mw": 43.674,
+        "mw": 240.47,
         "cas_number": "14905-56-7",
-        "score": 140.0,
+        "score": 14.0,
         "retention_index": 1539,
         "reference_spectrum": [
           {
@@ -46878,9 +46878,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-Cyclohexene-1-carboxaldehyde, 2,6,6-trimethyl-",
         "formula": "C10H16O",
-        "mw": 21.048,
+        "mw": 152.24,
         "cas_number": "432-25-7",
-        "score": 960.0,
+        "score": 96.0,
         "retention_index": 1220,
         "reference_spectrum": [
           {
@@ -47404,9 +47404,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "p-Mentha-1(7),8-dien-2-ol",
         "formula": "C10H16O",
-        "mw": 21.048,
+        "mw": 152.24,
         "cas_number": "35907-10-9",
-        "score": 460.0,
+        "score": 46.0,
         "retention_index": 1186,
         "reference_spectrum": [
           {
@@ -48082,9 +48082,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Butanoic acid",
         "formula": "C4H8O2",
-        "mw": 22.516,
+        "mw": 88.11,
         "cas_number": "107-92-6",
-        "score": 780.0,
+        "score": 78.0,
         "retention_index": 805,
         "reference_spectrum": [
           {
@@ -48500,9 +48500,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Butyrolactone",
         "formula": "C4H6O2",
-        "mw": 20.501,
+        "mw": 86.09,
         "cas_number": "96-48-0",
-        "score": 720.0,
+        "score": 72.0,
         "retention_index": 915,
         "reference_spectrum": [
           {
@@ -48946,9 +48946,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1,3-Cyclohexadiene-1-carboxaldehyde, 2,6,6-trimethyl-",
         "formula": "C10H14O",
-        "mw": 19.032,
+        "mw": 150.22,
         "cas_number": "116-26-7",
-        "score": 980.0,
+        "score": 98.0,
         "retention_index": 1201,
         "reference_spectrum": [
           {
@@ -49464,9 +49464,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Acetophenone",
         "formula": "C8H8O",
-        "mw": 54.522,
+        "mw": 120.15,
         "cas_number": "98-86-2",
-        "score": 800.0,
+        "score": 80.0,
         "retention_index": 1065,
         "reference_spectrum": [
           {
@@ -49986,9 +49986,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Methyl-3,4,5,6-tetrahydropyrazine",
         "formula": "C5H10N2",
-        "mw": 32.548,
+        "mw": 98.15,
         "cas_number": "344240-21-7",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -50364,9 +50364,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Heptasiloxane, hexadecamethyl-",
         "formula": "C16H48O6Si7",
-        "mw": 7.896,
+        "mw": 533.15,
         "cas_number": "541-01-5",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": 1553,
         "reference_spectrum": [
           {
@@ -50866,9 +50866,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3-Undecen-5-yne, (Z)-",
         "formula": "C11H18",
-        "mw": 19.069,
+        "mw": 150.26,
         "cas_number": "74744-27-7",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -51528,9 +51528,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Silane, methylvinyl(1-cyclopentylethoxymethylvinylsilyloxy)undecyloxy-",
         "formula": "C24H48O3Si2",
-        "mw": 47.098,
+        "mw": 440.82,
         "cas_number": "1000420-99-2",
-        "score": 320.0,
+        "score": 32.0,
         "retention_index": 2336,
         "reference_spectrum": [
           {
@@ -52518,9 +52518,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-Cyclohexene-1-carboxaldehyde, 5,5-dimethyl-3-oxo-",
         "formula": "C9H12O2",
-        "mw": 21.012,
+        "mw": 152.19,
         "cas_number": "56621-35-3",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -53232,9 +53232,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Hydroxy-5,5-dimethyl-hex-2-en-4-one",
         "formula": "C8H14O2",
-        "mw": 11.027,
+        "mw": 142.2,
         "cas_number": "1000144-68-4",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -53590,9 +53590,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzaldehyde, 3-ethyl-",
         "formula": "C9H10O",
-        "mw": 3.001,
+        "mw": 134.18,
         "cas_number": "34246-54-3",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": 1168,
         "reference_spectrum": [
           {
@@ -53940,9 +53940,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3,4-Dihydroxyphenylglycol, 4TMS derivative",
         "formula": "C20H42O4Si4",
-        "mw": 65.0,
+        "mw": 458.89,
         "cas_number": "56114-62-6",
-        "score": 590.0,
+        "score": 59.0,
         "retention_index": 1852,
         "reference_spectrum": [
           {
@@ -54726,9 +54726,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Carbonic acid, 2,2,2-trichloroethyl undec-10-enyl ester",
         "formula": "C14H23Cl3O3",
-        "mw": 16.391,
+        "mw": 345.69,
         "cas_number": "1000314-55-7",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -55244,9 +55244,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Cyclopenten-1-one, 2,3-dimethyl-",
         "formula": "C7H10O",
-        "mw": 44.537,
+        "mw": 110.16,
         "cas_number": "1121-05-7",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": 1040,
         "reference_spectrum": [
           {
@@ -55714,9 +55714,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-Methyl-4-piperidyl 2-(3,5-dimethoxyphenyl)-2-hydroxy-2-phenylacetate",
         "formula": "C22H27NO5",
-        "mw": 57.509,
+        "mw": 385.46,
         "cas_number": "1000288-02-7",
-        "score": 250.0,
+        "score": 25.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -56492,9 +56492,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzaldehyde, 3,5-dimethyl-",
         "formula": "C9H10O",
-        "mw": 3.001,
+        "mw": 134.18,
         "cas_number": "5779-95-3",
-        "score": 860.0,
+        "score": 86.0,
         "retention_index": 1169,
         "reference_spectrum": [
           {
@@ -56942,9 +56942,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzaldehyde, 2,4-dimethyl-",
         "formula": "C9H10O",
-        "mw": 3.001,
+        "mw": 134.18,
         "cas_number": "15764-16-6",
-        "score": 460.0,
+        "score": 46.0,
         "retention_index": 1181,
         "reference_spectrum": [
           {
@@ -57468,9 +57468,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Methyl-1,4-heptadiene",
         "formula": "C8H14",
-        "mw": 44.574,
+        "mw": 110.2,
         "cas_number": "13857-55-1",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -57878,9 +57878,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Naphthalene, 1,2,3,5,6,8a-hexahydro-4,7-dimethyl-1-(1-methylethyl)-, (1S-cis)-",
         "formula": "C15H24",
-        "mw": 7.58,
+        "mw": 204.36,
         "cas_number": "483-76-1",
-        "score": 970.0,
+        "score": 97.0,
         "retention_index": 1524,
         "reference_spectrum": [
           {
@@ -58512,9 +58512,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Azetidine, 1-(methylsulfonyl)-",
         "formula": "C4H9NO2S",
-        "mw": 3.963,
+        "mw": 135.18,
         "cas_number": "13595-45-4",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -58846,9 +58846,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Oxohex-2-enal",
         "formula": "C6H8O2",
-        "mw": 46.516,
+        "mw": 112.13,
         "cas_number": "20697-55-6",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": 957,
         "reference_spectrum": [
           {
@@ -59208,9 +59208,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1,2-Cyclopentanedione",
         "formula": "C5H6O2",
-        "mw": 32.501,
+        "mw": 98.1,
         "cas_number": "3008-40-0",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -59742,9 +59742,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Non-7-ynamide",
         "formula": "C9H15NO",
-        "mw": 22.043,
+        "mw": 153.22,
         "cas_number": "1000187-49-0",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -60364,9 +60364,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Undec-10-ynoic acid",
         "formula": "C11H18O2",
-        "mw": 51.059,
+        "mw": 182.26,
         "cas_number": "2777-65-3",
-        "score": 250.0,
+        "score": 25.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -61006,9 +61006,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-(5,6-Dimethyl-2-pyrazinyl)-1-butanone",
         "formula": "C10H14N2O",
-        "mw": 47.039,
+        "mw": 178.23,
         "cas_number": "298210-72-7",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -61692,9 +61692,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Pentanoic acid, 4-methyl-",
         "formula": "C6H12O2",
-        "mw": 50.548,
+        "mw": 116.16,
         "cas_number": "646-07-1",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": 949,
         "reference_spectrum": [
           {
@@ -62154,9 +62154,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "(+-)-cis-3,4-Dimethyl-2-phenyltetrahydro-1,4-thiazine",
         "formula": "C12H17NS",
-        "mw": 10.5,
+        "mw": 207.34,
         "cas_number": "92772-63-9",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -62800,9 +62800,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Cyclohexen-1-ol",
         "formula": "C6H10O",
-        "mw": 32.537,
+        "mw": 98.14,
         "cas_number": "822-67-3",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": 887,
         "reference_spectrum": [
           {
@@ -63266,9 +63266,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzaldehyde, 2,4-dimethyl-",
         "formula": "C9H10O",
-        "mw": 3.001,
+        "mw": 134.18,
         "cas_number": "15764-16-6",
-        "score": 740.0,
+        "score": 74.0,
         "retention_index": 1181,
         "reference_spectrum": [
           {
@@ -63784,9 +63784,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "trans-Calamenene",
         "formula": "C15H22",
-        "mw": 5.564,
+        "mw": 202.34,
         "cas_number": "73209-42-4",
-        "score": 900.0,
+        "score": 90.0,
         "retention_index": 1529,
         "reference_spectrum": [
           {
@@ -64326,9 +64326,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "benzoic acid, 3,5-dimethyl-, trimethylsilyl ester",
         "formula": "C12H18O2Si",
-        "mw": 25.5,
+        "mw": 222.36,
         "cas_number": "1000396-28-7",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -64820,9 +64820,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Hexanoic acid",
         "formula": "C6H12O2",
-        "mw": 50.548,
+        "mw": 116.16,
         "cas_number": "142-62-1",
-        "score": 830.0,
+        "score": 83.0,
         "retention_index": 990,
         "reference_spectrum": [
           {
@@ -65314,9 +65314,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Heptasiloxane, hexadecamethyl-",
         "formula": "C16H48O6Si7",
-        "mw": 7.896,
+        "mw": 533.15,
         "cas_number": "541-01-5",
-        "score": 450.0,
+        "score": 45.0,
         "retention_index": 1553,
         "reference_spectrum": [
           {
@@ -65724,9 +65724,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": ".alpha.-Ionone",
         "formula": "C13H20O",
-        "mw": 61.079,
+        "mw": 192.3,
         "cas_number": "127-41-3",
-        "score": 950.0,
+        "score": 95.0,
         "retention_index": 1426,
         "reference_spectrum": [
           {
@@ -66622,9 +66622,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "5,9-Undecadien-2-one, 6,10-dimethyl-, (E)-",
         "formula": "C13H22O",
-        "mw": 63.095,
+        "mw": 194.32,
         "cas_number": "3796-70-1",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": 1453,
         "reference_spectrum": [
           {
@@ -67224,9 +67224,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2,5-Difluorobenzyl alcohol",
         "formula": "C7H6F2O",
-        "mw": 12.967,
+        "mw": 144.12,
         "cas_number": "75853-20-2",
-        "score": 230.0,
+        "score": 23.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -67926,9 +67926,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclopentane carboxylic acid hydrazide",
         "formula": "C6H12N2O",
-        "mw": 62.559,
+        "mw": 128.18,
         "cas_number": "3400-07-5",
-        "score": 180.0,
+        "score": 18.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -68476,9 +68476,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Dimethylamino-4,5-dimethyl-oxazole",
         "formula": "C7H12N2O",
-        "mw": 9.023,
+        "mw": 140.19,
         "cas_number": "73777-29-4",
-        "score": 870.0,
+        "score": 87.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -68882,9 +68882,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Hexasiloxane, tetradecamethyl-",
         "formula": "C14H42O5Si6",
-        "mw": 64.949,
+        "mw": 459.0,
         "cas_number": "107-52-8",
-        "score": 320.0,
+        "score": 32.0,
         "retention_index": 1353,
         "reference_spectrum": [
           {
@@ -69352,9 +69352,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzyl alcohol",
         "formula": "C7H8O",
-        "mw": 42.522,
+        "mw": 108.14,
         "cas_number": "100-51-6",
-        "score": 970.0,
+        "score": 97.0,
         "retention_index": 1036,
         "reference_spectrum": [
           {
@@ -69742,9 +69742,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Succinic acid, 2-ethylhexyl non-3-en-1-yl ester",
         "formula": "C21H38O4",
-        "mw": 26.597,
+        "mw": 354.53,
         "cas_number": "1000391-09-7",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": 2356,
         "reference_spectrum": [
           {
@@ -70280,9 +70280,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3-Hexen-2-one, 3,4-dimethyl-, (Z)-",
         "formula": "C8H14O",
-        "mw": 60.568,
+        "mw": 126.2,
         "cas_number": "20685-45-4",
-        "score": 270.0,
+        "score": 27.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -70938,9 +70938,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclohexane, 1,3,5-trimethyl-, (1.alpha.,3.alpha.,5.beta.)-",
         "formula": "C9H18",
-        "mw": 60.605,
+        "mw": 126.24,
         "cas_number": "1795-26-2",
-        "score": 460.0,
+        "score": 46.0,
         "retention_index": 863,
         "reference_spectrum": [
           {
@@ -71468,9 +71468,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2(4H)-Benzofuranone, 5,6,7,7a-tetrahydro-3,6-dimethyl-",
         "formula": "C10H14O2",
-        "mw": 35.027,
+        "mw": 166.22,
         "cas_number": "13341-72-5",
-        "score": 450.0,
+        "score": 45.0,
         "retention_index": 1303,
         "reference_spectrum": [
           {
@@ -72070,9 +72070,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Phenylethyl Alcohol",
         "formula": "C8H10O",
-        "mw": 56.537,
+        "mw": 122.17,
         "cas_number": "60-12-8",
-        "score": 940.0,
+        "score": 94.0,
         "retention_index": 1116,
         "reference_spectrum": [
           {
@@ -72676,9 +72676,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Neophytadiene",
         "formula": "C20H38",
-        "mw": 16.153,
+        "mw": 278.52,
         "cas_number": "504-96-1",
-        "score": 950.0,
+        "score": 95.0,
         "retention_index": 1837,
         "reference_spectrum": [
           {
@@ -73098,9 +73098,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzyl nitrile",
         "formula": "C8H7N",
-        "mw": 51.522,
+        "mw": 117.15,
         "cas_number": "140-29-4",
-        "score": 870.0,
+        "score": 87.0,
         "retention_index": 1144,
         "reference_spectrum": [
           {
@@ -73948,9 +73948,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "trans-.beta.-Ionone",
         "formula": "C13H20O",
-        "mw": 61.079,
+        "mw": 192.3,
         "cas_number": "79-77-6",
-        "score": 960.0,
+        "score": 96.0,
         "retention_index": 1486,
         "reference_spectrum": [
           {
@@ -74666,9 +74666,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Glycine, N-methoxycarbonyl-, heptadecyl ester",
         "formula": "C21H41NO4",
-        "mw": 43.624,
+        "mw": 371.56,
         "cas_number": "1000313-49-7",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -75304,9 +75304,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Heptanoic acid",
         "formula": "C7H14O2",
-        "mw": 64.563,
+        "mw": 130.19,
         "cas_number": "111-14-8",
-        "score": 930.0,
+        "score": 93.0,
         "retention_index": 1078,
         "reference_spectrum": [
           {
@@ -75990,9 +75990,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Neophytadiene",
         "formula": "C20H38",
-        "mw": 16.153,
+        "mw": 278.52,
         "cas_number": "504-96-1",
-        "score": 460.0,
+        "score": 46.0,
         "retention_index": 1837,
         "reference_spectrum": [
           {
@@ -76476,9 +76476,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Furan, 3-(4-methyl-5-trans-phenyl-1,3-oxazolidin-2-yl)-",
         "formula": "C14H15NO2",
-        "mw": 32.502,
+        "mw": 229.28,
         "cas_number": "1000142-75-6",
-        "score": 270.0,
+        "score": 27.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -77054,9 +77054,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-Cyanothiophenol",
         "formula": "C7H5NS",
-        "mw": 3.942,
+        "mw": 135.18,
         "cas_number": "36801-01-1",
-        "score": 460.0,
+        "score": 46.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -77688,9 +77688,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Maltol",
         "formula": "C6H6O3",
-        "mw": 60.496,
+        "mw": 126.11,
         "cas_number": "118-71-8",
-        "score": 550.0,
+        "score": 55.0,
         "retention_index": 1110,
         "reference_spectrum": [
           {
@@ -78262,9 +78262,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Ethanone, 1-(1H-pyrrol-2-yl)-",
         "formula": "C6H7NO",
-        "mw": 43.517,
+        "mw": 109.13,
         "cas_number": "1072-83-9",
-        "score": 910.0,
+        "score": 91.0,
         "retention_index": 1064,
         "reference_spectrum": [
           {
@@ -78736,9 +78736,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "7-Octadecyne, 2-methyl-",
         "formula": "C19H36",
-        "mw": 2.138,
+        "mw": 264.5,
         "cas_number": "35354-38-2",
-        "score": 720.0,
+        "score": 72.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -79182,9 +79182,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-Piperidinamine, N-ethylidene-",
         "formula": "C7H14N2",
-        "mw": 60.58,
+        "mw": 126.2,
         "cas_number": "75267-99-1",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -79784,9 +79784,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3-Buten-2-one, 4-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]hept-1-yl)-",
         "formula": "C13H20O2",
-        "mw": 11.538,
+        "mw": 208.3,
         "cas_number": "23267-57-4",
-        "score": 900.0,
+        "score": 90.0,
         "retention_index": 1473,
         "reference_spectrum": [
           {
@@ -80498,9 +80498,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-(2,6,6-Trimethylcyclohexa-1,3-dienyl)but-3-en-2-one",
         "formula": "C13H18O",
-        "mw": 59.064,
+        "mw": 190.29,
         "cas_number": "1203-08-3",
-        "score": 900.0,
+        "score": 90.0,
         "retention_index": 1485,
         "reference_spectrum": [
           {
@@ -81248,9 +81248,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Phenol",
         "formula": "C6H6O",
-        "mw": 28.506,
+        "mw": 94.11,
         "cas_number": "108-95-2",
-        "score": 800.0,
+        "score": 80.0,
         "retention_index": 980,
         "reference_spectrum": [
           {
@@ -81794,9 +81794,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "10-Undecyn-1-ol",
         "formula": "C11H20O",
-        "mw": 37.079,
+        "mw": 168.28,
         "cas_number": "2774-84-7",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -82440,9 +82440,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "9-Oxabicyclo[3.3.1]non-6-en-2-ol, endo-",
         "formula": "C8H12O2",
-        "mw": 9.012,
+        "mw": 140.18,
         "cas_number": "29946-76-7",
-        "score": 860.0,
+        "score": 86.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -83082,9 +83082,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Malonic acid, 1,3-dithio-, bimol. cyclic S,S-ethylene ester",
         "formula": "C10H12O4S4",
-        "mw": 61.818,
+        "mw": 324.44,
         "cas_number": "21620-30-4",
-        "score": 120.0,
+        "score": 12.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -83688,9 +83688,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2(3H)-Furanone, 5-hexyldihydro-",
         "formula": "C10H18O2",
-        "mw": 39.059,
+        "mw": 170.25,
         "cas_number": "706-14-9",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": 1470,
         "reference_spectrum": [
           {
@@ -84362,9 +84362,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Octanoic acid",
         "formula": "C8H16O2",
-        "mw": 13.043,
+        "mw": 144.21,
         "cas_number": "124-07-2",
-        "score": 950.0,
+        "score": 95.0,
         "retention_index": 1180,
         "reference_spectrum": [
           {
@@ -84924,9 +84924,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "[1,2,3,4]Tetrazolo[1,5-b][1,2,4]triazine, 5,6,7,8-tetrahydro-",
         "formula": "C3H6N6",
-        "mw": 60.529,
+        "mw": 126.12,
         "cas_number": "1000351-50-0",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -85414,9 +85414,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1,2-Dithiepane",
         "formula": "C5H10S2",
-        "mw": 2.95,
+        "mw": 134.25,
         "cas_number": "6008-51-1",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": 1210,
         "reference_spectrum": [
           {
@@ -85796,9 +85796,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2,4-Methylene-.beta.-sedoheptitol",
         "formula": "C8H16O7",
-        "mw": 27.482,
+        "mw": 224.21,
         "cas_number": "7464-23-5",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -86542,9 +86542,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Oxotetrahydrofuryl-5-hexanoic acid, methyl ester",
         "formula": "C11H18O4",
-        "mw": 17.513,
+        "mw": 214.26,
         "cas_number": "1000153-52-6",
-        "score": 500.0,
+        "score": 50.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -87224,9 +87224,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "p-Cresol",
         "formula": "C7H8O",
-        "mw": 42.522,
+        "mw": 108.14,
         "cas_number": "106-44-5",
-        "score": 870.0,
+        "score": 87.0,
         "retention_index": 1077,
         "reference_spectrum": [
           {
@@ -87714,9 +87714,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": ".alpha.-Aminooxy-propionic acid, methyl ester",
         "formula": "C4H9NO3",
-        "mw": 53.522,
+        "mw": 119.12,
         "cas_number": "91666-48-7",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -88108,9 +88108,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Octadecane, 3-ethyl-5-(2-ethylbutyl)-",
         "formula": "C26H54",
-        "mw": 38.743,
+        "mw": 366.72,
         "cas_number": "55282-12-7",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -89630,9 +89630,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Tridecane, 2,2,4,10,12,12-hexamethyl-7-(3,5,5-trimethylhexyl)-",
         "formula": "C28H58",
-        "mw": 1.238,
+        "mw": 394.77,
         "cas_number": "3035-75-4",
-        "score": 350.0,
+        "score": 35.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -90576,9 +90576,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "5-Heptyn-3-ol, 2-benzyloxy-7-methoxy-1-(t-butyldimethylsilyl)oxy-",
         "formula": "C21H34O4Si",
-        "mw": 50.543,
+        "mw": 378.58,
         "cas_number": "1000192-35-5",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -91382,9 +91382,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Bicyclo[2.2.1]heptane, 2-methyl-3-(1-methylethenyl)-",
         "formula": "C11H18",
-        "mw": 19.069,
+        "mw": 150.26,
         "cas_number": "62337-89-7",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -92012,9 +92012,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1-Methyl-4-amino-4,5(1H)-dihydro-1,2,4-triazole-5-one",
         "formula": "C3H6N4O",
-        "mw": 48.518,
+        "mw": 114.11,
         "cas_number": "4254-55-1",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -92422,9 +92422,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Spiro[bicyclo[2.2.1]heptane-2,2'-[1,3]dioxolane]-3-ol, 4,7,7-trimethyl-",
         "formula": "C12H20O3",
-        "mw": 15.533,
+        "mw": 212.29,
         "cas_number": "35972-92-0",
-        "score": 530.0,
+        "score": 53.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -93220,9 +93220,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Ethanol, 2-phenoxy-",
         "formula": "C8H10O2",
-        "mw": 6.996,
+        "mw": 138.17,
         "cas_number": "122-99-6",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": 1225,
         "reference_spectrum": [
           {
@@ -93874,9 +93874,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "4-(1-Hydroxyallyl)-2-methoxyphenol",
         "formula": "C10H12O3",
-        "mw": 49.007,
+        "mw": 180.2,
         "cas_number": "112465-50-6",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": 1577,
         "reference_spectrum": [
           {
@@ -94600,9 +94600,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Nonanoic acid",
         "formula": "C9H18O2",
-        "mw": 27.059,
+        "mw": 158.24,
         "cas_number": "112-05-0",
-        "score": 970.0,
+        "score": 97.0,
         "retention_index": 1273,
         "reference_spectrum": [
           {
@@ -95250,9 +95250,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Thiocyanic acid, ethyl ester",
         "formula": "C3H5NS",
-        "mw": 21.478,
+        "mw": 87.14,
         "cas_number": "542-90-5",
-        "score": 250.0,
+        "score": 25.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -95864,9 +95864,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Hexane, 1,2,3-trimethoxy-",
         "formula": "C9H20O3",
-        "mw": 45.069,
+        "mw": 176.26,
         "cas_number": "20637-29-0",
-        "score": 160.0,
+        "score": 16.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -96478,9 +96478,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cyclohexanecarboxylic acid, 3-fluorophenyl ester",
         "formula": "C13H15FO2",
-        "mw": 25.498,
+        "mw": 222.26,
         "cas_number": "1000330-87-9",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -96892,9 +96892,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Sulfurous acid, cyclohexylmethyl heptadecyl ester",
         "formula": "C24H48O3S",
-        "mw": 23.116,
+        "mw": 416.71,
         "cas_number": "1000309-22-5",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -97498,9 +97498,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Methoxy-4-vinylphenol",
         "formula": "C9H10O2",
-        "mw": 18.996,
+        "mw": 150.18,
         "cas_number": "7786-61-0",
-        "score": 860.0,
+        "score": 86.0,
         "retention_index": 1317,
         "reference_spectrum": [
           {
@@ -98224,9 +98224,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Cycloundecanecarboxylic acid, methyl ester",
         "formula": "C13H24O2",
-        "mw": 15.57,
+        "mw": 212.33,
         "cas_number": "3667-69-4",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": 1536,
         "reference_spectrum": [
           {
@@ -99110,9 +99110,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Tricyclo[4.3.0.0(3,7)]non-8-en-4-ol",
         "formula": "C9H12O",
-        "mw": 5.017,
+        "mw": 136.19,
         "cas_number": "1000190-47-8",
-        "score": 640.0,
+        "score": 64.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -99716,9 +99716,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3,4Dehydro-dl-proline",
         "formula": "C5H7NO2",
-        "mw": 47.512,
+        "mw": 113.12,
         "cas_number": "3395-35-5",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -100314,9 +100314,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "3-Heptenoic acid",
         "formula": "C7H12O2",
-        "mw": 62.548,
+        "mw": 128.17,
         "cas_number": "29901-85-7",
-        "score": 250.0,
+        "score": 25.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -101068,9 +101068,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "n-Decanoic acid",
         "formula": "C10H20O2",
-        "mw": 41.074,
+        "mw": 172.27,
         "cas_number": "334-48-5",
-        "score": 930.0,
+        "score": 93.0,
         "retention_index": 1373,
         "reference_spectrum": [
           {
@@ -101986,9 +101986,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Bicyclo[2.2.1]heptane, 2,2-dimethyl-5-methylene-",
         "formula": "C10H16",
-        "mw": 5.053,
+        "mw": 136.24,
         "cas_number": "497-32-5",
-        "score": 700.0,
+        "score": 70.0,
         "retention_index": 940,
         "reference_spectrum": [
           {
@@ -102692,9 +102692,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-[2-[2-[2-[2-[2-[2-[2-[2-(2-Methoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethyl acetate",
         "formula": "C23H46O12",
-        "mw": 55.547,
+        "mw": 514.61,
         "cas_number": "1000351-89-8",
-        "score": 300.0,
+        "score": 30.0,
         "retention_index": 3288,
         "reference_spectrum": [
           {
@@ -103542,9 +103542,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-Ethylhexyl salicylate",
         "formula": "C15H22O3",
-        "mw": 53.549,
+        "mw": 250.34,
         "cas_number": "118-60-5",
-        "score": 970.0,
+        "score": 97.0,
         "retention_index": 1811,
         "reference_spectrum": [
           {
@@ -104204,9 +104204,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2H-Indeno[1,2-b]furan-2-one, 3,3a,4,5,6,7,8,8b-octahydro-8,8-dimethyl",
         "formula": "C13H18O2",
-        "mw": 9.523,
+        "mw": 206.28,
         "cas_number": "1000196-74-3",
-        "score": 380.0,
+        "score": 38.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -105374,9 +105374,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2(4H)-Benzofuranone, 5,6,7,7a-tetrahydro-4,4,7a-trimethyl-",
         "formula": "C11H16O2",
-        "mw": 49.043,
+        "mw": 180.25,
         "cas_number": "15356-74-8",
-        "score": 970.0,
+        "score": 97.0,
         "retention_index": 1538,
         "reference_spectrum": [
           {
@@ -105948,9 +105948,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Decanoic acid, 3-methyl-",
         "formula": "C11H22O2",
-        "mw": 55.09,
+        "mw": 186.29,
         "cas_number": "60308-82-9",
-        "score": 430.0,
+        "score": 43.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -106626,9 +106626,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-[2-[2-[2-[2-[2-(2-Methoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethyl acetate",
         "formula": "C17H34O9",
-        "mw": 54.54,
+        "mw": 382.45,
         "cas_number": "1000351-91-6",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": 2478,
         "reference_spectrum": [
           {
@@ -107452,9 +107452,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2-[2-[2-[2-[2-(2-Methoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethyl acetate",
         "formula": "C15H30O8",
-        "mw": 10.514,
+        "mw": 338.4,
         "cas_number": "1000351-91-5",
-        "score": 270.0,
+        "score": 27.0,
         "retention_index": 2209,
         "reference_spectrum": [
           {
@@ -108178,9 +108178,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "1,3-Dithiane",
         "formula": "C4H8S2",
-        "mw": 54.471,
+        "mw": 120.23,
         "cas_number": "505-23-7",
-        "score": 470.0,
+        "score": 47.0,
         "retention_index": 1027,
         "reference_spectrum": [
           {
@@ -108880,9 +108880,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "2,4-Hexadienoyl chloride",
         "formula": "C6H7ClO",
-        "mw": 64.483,
+        "mw": 130.57,
         "cas_number": "90554-82-8",
-        "score": 220.0,
+        "score": 22.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -109434,9 +109434,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Benzoic acid",
         "formula": "C7H6O2",
-        "mw": 56.501,
+        "mw": 122.12,
         "cas_number": "65-85-0",
-        "score": 450.0,
+        "score": 45.0,
         "retention_index": 1170,
         "reference_spectrum": [
           {
@@ -110056,9 +110056,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Indole",
         "formula": "C8H7N",
-        "mw": 51.522,
+        "mw": 117.15,
         "cas_number": "120-72-9",
-        "score": 870.0,
+        "score": 87.0,
         "retention_index": 1295,
         "reference_spectrum": [
           {
@@ -110826,9 +110826,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Dodecanoic acid",
         "formula": "C12H24O2",
-        "mw": 3.57,
+        "mw": 200.32,
         "cas_number": "143-07-7",
-        "score": 980.0,
+        "score": 98.0,
         "retention_index": 1568,
         "reference_spectrum": [
           {
@@ -111732,9 +111732,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Silane, methyltripropyl-",
         "formula": "C10H24Si",
-        "mw": 41.093,
+        "mw": 172.39,
         "cas_number": "995-24-4",
-        "score": 270.0,
+        "score": 27.0,
         "retention_index": 1026,
         "reference_spectrum": [
           {
@@ -112630,9 +112630,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "Hydrazine, 1,1-diethyl-2-(1-methylethyl)-",
         "formula": "C7H18N2",
-        "mw": 64.611,
+        "mw": 130.24,
         "cas_number": "67398-39-4",
-        "score": 270.0,
+        "score": 27.0,
         "retention_index": null,
         "reference_spectrum": [
           {
@@ -113484,9 +113484,9 @@ window.msDataCache["250812_barley_powder"] = {
       "library_match": {
         "name": "n-Hexadecanoic acid",
         "formula": "C16H32O2",
-        "mw": 59.632,
+        "mw": 256.43,
         "cas_number": "57-10-3",
-        "score": 990.0,
+        "score": 99.0,
         "retention_index": 1968,
         "reference_spectrum": [
           {
